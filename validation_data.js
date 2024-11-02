@@ -1,0 +1,3 @@
+ var data_validation = '{"fb-submit-button":{"hover":{"background-image":""}},"item5_text_1":{"maxlength":"10","required":true},"item7_select_1":{"required":true},"item8_select_1":{},"item10_textarea_1":{"maxlength":"10000"},"conditionalRules":{"item8":{"element":{"name":"dawa_07704633343","operator":"is","value":"مۆڵەت"}},"item17":{"element":{"name":"dawa_07704633343","operator":"is","value":"شاند"}},"item21":{"element":{"name":"sharawani_07704633343","operator":"is","value":"شوێنی تر"}},"item22":{"element":{"name":"dawa_07704633343","operator":"is","value":"شاند"}}},"item17_select_1":{"required":true},"item21_text_1":{"required":true,"maxlength":"50"},"item22_text_1":{"required":true}}';
+ var data_jsplugins = '[]';
+ var data_cssplugins = '[]';
